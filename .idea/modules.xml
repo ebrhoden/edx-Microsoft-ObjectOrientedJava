@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/edx-Microsoft-ObjectOrientedJava.iml" filepath="$PROJECT_DIR$/.idea/edx-Microsoft-ObjectOrientedJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/final_project_animal_kingdom/final_project_animal_kingdom.iml" filepath="$PROJECT_DIR$/final_project_animal_kingdom/final_project_animal_kingdom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module1_battleship/module1_battleship.iml" filepath="$PROJECT_DIR$/module1_battleship/module1_battleship.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2_fraction_calculator/module2_fraction_calculator.iml" filepath="$PROJECT_DIR$/module2_fraction_calculator/module2_fraction_calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module3_company_structure/module3_company_structure.iml" filepath="$PROJECT_DIR$/module3_company_structure/module3_company_structure.iml" />
+    </modules>
+  </component>
+</project>
